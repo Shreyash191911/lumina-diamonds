@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { startCheckout } from '/services/echo.js';
+import { startCheckout } from '../services/echo.jsx';
 
 const CartContext = createContext();
 
