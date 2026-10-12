@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "payments": true,
+  "products": [
+    {
+      "id": "grand-marquise",
+      "name": "The Grand Marquise",
+      "priceCents": 1850000,
+      "currency": "usd",
+      "description": "An exceptional marquise cut diamond of peerless fire and brilliance, displaying absolute colorlessness and flawless clarity."
+    },
+    {
+      "id": "seraphina-oval",
+      "name": "The Seraphina Oval",
+      "priceCents": 1420000,
+      "currency": "usd",
+      "description": "A breathtaking oval cut diamond with an elongated ratio that maximizes visual presence and delivers exceptional scintillation."
+    },
+    {
+      "id": "aurelia-round",
+      "name": "The Aurelia Round",
+      "priceCents": 2450000,
+      "currency": "usd",
+      "description": "The quintessential round brilliant cut, engineered for maximum light return and fire. Pure, colorless, and internally flawless."
+    },
+    {
+      "id": "celestia-emerald",
+      "name": "The Celestia Emerald",
+      "priceCents": 1680000,
+      "currency": "usd",
+      "description": "A classic step-cut emerald diamond offering mesmerizing hall-of-mirrors reflections and elegant, clean lines."
+    },
+    {
+      "id": "solitaire-princess",
+      "name": "The Solitaire Princess",
+      "priceCents": 980000,
+      "currency": "usd",
+      "description": "A modern princess cut with sharp, brilliant facets that deliver outstanding sparkle and contemporary elegance."
+    },
+    {
+      "id": "elara-pear",
+      "name": "The Elara Pear",
+      "priceCents": 1150000,
+      "currency": "usd",
+      "description": "An elegant pear-shaped diamond combining the brilliance of a round cut with the unique elongation of a marquise."
+    }
+  ]
+}
