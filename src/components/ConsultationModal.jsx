@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useCart } from '../context/CartContext';
 import { X, Calendar, CheckCircle, Sparkles } from 'lucide-react';
-import { saveRecord } from '/services/echo.js';
+import { saveRecord } from '../services/echo.jsx';
 
 export default function ConsultationModal() {
   const { isConsultationOpen, setIsConsultationOpen } = useCart();
